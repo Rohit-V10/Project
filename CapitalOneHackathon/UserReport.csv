@@ -1,0 +1,6 @@
+UserName,FullName,Location,Credit_Score,Utilities,Entertainment,Healthcare,Housing,Transportation,Food,Insurance,Electricity,Water,Gas,Income,TotalBill,Password
+abc123,Alfa Beta,London,500,190.2,400,150,973,63,380,686,77.8,37.3,75.1,"50,000",2842.2,pass
+zp81,Zainab Patel,Leicester,630,167,100,60,1420,70,300,720,60,35,72,"70,000",2837,pass2
+rv96,Rohit Varghese,London,680,199.4,300,100,900,80,364.8,650,80,43,76.4,"90,000",2594.2,pass3
+fof2,Fahood Farooqi,Leicester,730,194.5,150,130,1200,62,364,730,65.5,49,80,"110,000",2830.5,pass4
+pds22,Pieter Swart,Manchester,800,222,200,80,480,70,326,913,90,50,82,"150,000",2291,pass5
